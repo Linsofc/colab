@@ -13,3 +13,8 @@ if (data == 7) {
 } else {
     console.log("bukan data")
 }
+
+const dora = 8
+if (dora == 8) {
+    console.log("dora")
+}
